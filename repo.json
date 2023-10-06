@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Arty",
+        "Name": "Minimalist Gamba",
+        "Description": "A basic plugin for gamba",
+        "InternalName": "MinimalistGamba",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/geodude885/MinimalistGamba",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "player",
+            "venue",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/geodude885/MinimalistGamba/raw/main/MinimalistGamba/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/geodude885/MinimalistGamba/raw/main/MinimalistGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/geodude885/MinimalistGamba/raw/main/MinimalistGamba/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1657534682"
+    }
+]
